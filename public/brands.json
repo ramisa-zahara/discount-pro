@@ -1,0 +1,267 @@
+[
+    {
+      "id": "1",
+      "brand_name": "TechWorld",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Your one-stop-shop for all tech gadgets and accessories.",
+      "brand_logo": "https://i.postimg.cc/RZ4WMmzx/techworld.jpg",
+      "coupons": [
+        {
+          "coupon_code": "TECH20",
+          "description": "Get 20% off on all electronics.",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum purchase of $100 required.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FREESHIP",
+          "description": "Free shipping on orders over $50.",
+          "expiry_date": "2025-01-15",
+          "condition": "Applicable sitewide.",
+          "coupon_type": "Free Shipping"
+        }
+
+      ],
+      "shop_Link": "https://techworld.com",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "id": "2",
+      "brand_name": "FashionHub",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Trendy outfits and accessories for all seasons.",
+      "brand_logo": "https://i.postimg.cc/sxNT3xbK/fashion-hub.jpg",
+      "coupons": [
+        {
+          "coupon_code": "STYLE10",
+          "description": "10% off on your first order.",
+          "expiry_date": "2024-11-30",
+          "condition": "First-time customers only.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "WINTER30",
+          "description": "Flat 30% off on winter collection.",
+          "expiry_date": "2025-02-28",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://fashionhub.com",
+      "category": "Clothing",
+      "isSaleOn": true
+    },
+    {
+      "id": "3",
+      "brand_name": "BookNest",
+      "rating": "⭐⭐⭐⭐",
+      "description": "Discover books across all genres with amazing discounts.",
+      "brand_logo": "https://i.postimg.cc/zvFqMmMJ/booknest.png",
+      "coupons": [
+        {
+          "coupon_code": "READ20",
+          "description": "20% off on all fiction books.",
+          "expiry_date": "2024-12-15",
+          "condition": "Valid on select titles only.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "BOOKLOVER",
+          "description": "Buy 2, Get 1 Free on all books.",
+          "expiry_date": "2025-03-01",
+          "condition": "Lowest priced book free.",
+          "coupon_type": "Bundle"
+        }
+      ],
+      "shop_Link": "https://booknest.com",
+      "category": "Books",
+      "isSaleOn": false
+    },
+    {
+      "id": "4",
+      "brand_name": "GourmetBites",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Delicious gourmet food delivered to your doorstep.",
+      "brand_logo": "https://i.postimg.cc/mrCNK8bd/gourmet-bites.png",
+      "coupons": [
+        {
+          "coupon_code": "FOODIE25",
+          "description": "25% off on all orders.",
+          "expiry_date": "2024-12-31",
+          "condition": "Maximum discount $50.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "SNACK10",
+          "description": "10% off on snacks and beverages.",
+          "expiry_date": "2025-01-15",
+          "condition": "Applicable on snacks category only.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://gourmetbites.com",
+      "category": "Food",
+      "isSaleOn": true
+    },
+    {
+      "id": "5",
+      "brand_name": "FitnessGear",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Top-quality fitness equipment and accessories.",
+      "brand_logo": "https://i.postimg.cc/prcsPCpg/fitness-gear.jpg",
+      "coupons": [
+        {
+          "coupon_code": "FIT30",
+          "description": "30% off on gym equipment.",
+          "expiry_date": "2025-01-31",
+          "condition": "Minimum purchase of $200 required.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "HEALTH10",
+          "description": "10% off on fitness trackers.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for all models.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://fitnessgear.com",
+      "category": "Fitness",
+      "isSaleOn": false
+    },
+    {
+      "id": "6",
+      "brand_name": "HomeEssentials",
+      "rating": "⭐⭐⭐⭐",
+      "description": "Affordable home and kitchen essentials for everyday use.",
+      "brand_logo": "https://i.postimg.cc/NMnVbdbd/homeessentials.png",
+      "coupons": [
+        {
+          "coupon_code": "HOME20",
+          "description": "20% off on kitchenware.",
+          "expiry_date": "2024-11-30",
+          "condition": "Applicable on orders above $50.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "DECOR15",
+          "description": "15% off on home decor items.",
+          "expiry_date": "2024-12-15",
+          "condition": "Valid on select products.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://homeessentials.com",
+      "category": "Home",
+      "isSaleOn": true
+    },
+    {
+      "id": "7",
+      "brand_name": "PetPalace",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Premium supplies for your beloved pets.",
+      "brand_logo": "https://i.postimg.cc/bNHXjcTn/petplace.png",
+      "coupons": [
+        {
+          "coupon_code": "PETCARE10",
+          "description": "10% off on all pet grooming products.",
+          "expiry_date": "2024-12-30",
+          "condition": "Valid sitewide.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "FOOD5",
+          "description": "5% off on pet food.",
+          "expiry_date": "2025-01-10",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://petpalace.com",
+      "category": "Pets",
+      "isSaleOn": false
+    },
+    {
+      "id": "8",
+      "brand_name": "BeautyPlus",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Explore skincare and makeup products at amazing prices.",
+      "brand_logo": "https://i.postimg.cc/Rq57ZtVS/beauty-plus.png",
+      "coupons": [
+        {
+          "coupon_code": "SKINCARE25",
+          "description": "25% off on skincare products.",
+          "expiry_date": "2024-12-31",
+          "condition": "Minimum spend of $30.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "MAKEUP15",
+          "description": "15% off on makeup products.",
+          "expiry_date": "2024-12-25",
+          "condition": "Select brands only.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://beautyplus.com",
+      "category": "Beauty",
+      "isSaleOn": true
+    },
+    {
+      "id": "9",
+      "brand_name": "GameWorld",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "The ultimate destination for video games and consoles.",
+      "brand_logo": "https://i.postimg.cc/sfnR8JH9/game-world.jpg",
+      "coupons": [
+        {
+          "coupon_code": "GAMER10",
+          "description": "10% off on all gaming consoles.",
+          "expiry_date": "2024-12-31",
+          "condition": "Excludes pre-orders.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "PLAY20",
+          "description": "20% off on video game titles.",
+          "expiry_date": "2025-01-31",
+          "condition": "Minimum purchase of $50.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://gameworld.com",
+      "category": "Gaming",
+      "isSaleOn": true
+    },
+    {
+      "id": "10",
+      "brand_name": "TravelEase",
+      "rating": "⭐⭐⭐⭐⭐",
+      "description": "Best deals on flights, hotels, and travel packages.",
+      "brand_logo": "https://i.postimg.cc/63wRgZ5n/travel-ease.png",
+      "coupons": [
+        {
+          "coupon_code": "FLIGHT50",
+          "description": "$50 off on international flights.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid on round-trip tickets only.",
+          "coupon_type": "Discount"
+        },
+        {
+          "coupon_code": "HOTEL20",
+          "description": "20% off on hotel bookings.",
+          "expiry_date": "2025-02-28",
+          "condition": "Minimum booking value $100.",
+          "coupon_type": "Discount"
+        }
+      ],
+      "shop_Link": "https://travelease.com",
+      "category": "Travel",
+      "isSaleOn": false
+    }
+  ]
+  
+
+
+  
